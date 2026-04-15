@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Adeleye+Abdulbasit+%F0%9F%91%8B;Senior+Frontend+Engineer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+React+Native;Building+fintech+products+that+scale+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Adeleye+Abdulbasit+%F0%9F%91%8B;Frontend+Engineer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+React+Native;Building+fintech+products+that+scale+%E2%9A%A1)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Skiblinx&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -11,9 +11,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Frontend Engineer** based in Lagos, Nigeria, specializing in high-performance web and mobile applications for **fintech**, **digital banking**, and **payment solutions**. With 4+ years of experience, I've reduced load times by up to 40%, built reusable component systems that cut feature delivery time by 25%, and shipped products with 99.9% crash-free sessions.
+I'm a **Frontend Engineer** based in Lagos, Nigeria, specializing in high-performance web and mobile applications for **fintech**, **digital banking**, and **payment solutions**. With 4+ years of experience, I've reduced load times by up to 40%, built reusable component systems that cut feature delivery time by 25%, and shipped products with 99.9% crash-free sessions.
 
-- 🔭 Currently leading frontend architecture for core payment products
 - 🌱 Deepening expertise in **systems design** & **scalable UI architecture**
 - 🤝 Open to collaborating on impactful, real-world projects
 - 💬 Ask me about **React**, **Next.js**, **TypeScript**, **React Native**
@@ -49,18 +48,6 @@ I'm a **Senior Frontend Engineer** based in Lagos, Nigeria, specializing in high
 
 ---
 
-## 🔥 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| ⚖️ **Legal Assist Connect** | Legal-tech platform connecting users with verified legal professionals — trust-first UX built for high-stakes, sensitive workflows | React.js · TypeScript · REST API |
-| 💱 **FlashChange** | Crypto-to-fiat exchange with real-time rates, multi-currency swaps & 99.9% crash-free launch | React Native · TypeScript · Redux |
-| 🧱 **Tailordom** | Drag-and-drop no-code website builder — launch a professional site with zero code required | Next.js · TypeScript · Redux · Node.js |
-
-> 🛠 *More projects pinned below — check them out!*
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -83,16 +70,6 @@ I'm a **Senior Frontend Engineer** based in Lagos, Nigeria, specializing in high
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Skiblinx&theme=tokyonight&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Abdulbasit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Skiblinx&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
