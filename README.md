@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Adeleye+Abdulbasit+%F0%9F%91%8B;Frontend+Engineer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+React+Native;Building+fintech+products+that+scale+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Adeleye+Abdulbasit+%F0%9F%91%8B;Frontend+Engineer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+React+Native;Building+products+that+scale+%E2%9A%A1)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Skiblinx&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
 
